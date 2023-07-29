@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-color: rgb(156, 154, 154);
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 100px;
+}
+.contain1{
+    position: relative;
+    bottom: 30px;
+    right: 60px;
+    
+}
+.contain2{
+    position: relative;
+    bottom: 95px;
+    right: 60px;
+}
+.contain3{
+    position: relative;
+    bottom: 105px;
+    right: 60px;
+}
+.contain4{
+    position: relative;
+    bottom: 105px;
+}
+.contain1 p{
+    position: relative;
+    top: 40px;
+    text-align: justify;
+}
+.contain2 p{
+    position: relative;
+    top: 40px;
+}
+.contain2 i{
+    position: relative;
+    top: 40px;
+}
+.contain3 p{
+    position: relative;
+    top: 40px;
+}
+.contain4 p{
+    position: relative;
+    top: 40px;
+}
+.main2{
+    background-color: rgb(163, 163, 163);
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+.right{
+    display: flex;
+    gap: 40px;
+}
+.rigth i{
+    position: relative;
+    left: 800px;
+}
